@@ -1,0 +1,88 @@
+.sekil{
+    width: 100%;
+    height: auto;
+    margin-top: 65px;
+}
+.header{
+    background: #363d41;
+    width: auto;
+    height: 50px;
+}
+.header p{
+    color: whitesmoke;
+    float: right;
+    padding: 7px 550px;
+}
+.header ul{
+    border-radius: 100%;
+    color: whitesmoke;
+}
+.word li{
+    display: inline-block;
+    margin-top: 70px;
+    padding:  15px;
+    color: #363d41;
+}
+.orta{
+    background-image: url(https://livedemo00.template-help.com/wt_58888_v15/child/landing-startup/images/bg-image-1.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    position: relative;
+    min-height: 52vh;  
+    margin-top: 15px;
+}
+.orta h1{
+    text-align: center;
+    color: whitesmoke;
+    margin-top: 15px;
+    font-size:66px;
+    
+}
+.roud{
+    border-radius: 0;
+    position: relative;
+    color: whitesmoke;
+    text-align: center;
+    font-size: 15px;
+    padding: 25px 45px;
+    margin-top: 50px;
+    border-color: whitesmoke;
+    border: 2px solid;
+}
+.middle h1{
+    text-align: center;
+}
+.middle p{
+    text-align: center;
+}
+.box h5{
+    font-size: 18px;
+    padding: 5px;
+    font-weight: 700;
+}
+.col4{
+    margin-top: 28px;
+    border: 1px solid whitesmoke
+}
+.center h2{
+text-align: center;
+color: #151515;
+}
+.center p{
+    text-align: center;
+    color: #151515;
+}
+.footer{
+    background-image: url(https://livedemo00.template-help.com/wt_58888_v15/child/landing-startup/images/bg-image-2.jpg);
+    padding: 95px 0;
+    background-size: cover;
+    background-position: center 55%;
+    background-repeat: no-repeat;
+}
+.footer h3{
+    text-align: center;
+}
+.qwerty{
+    background-color:#7f67f8
+}

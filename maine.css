@@ -1,0 +1,15 @@
+.roud{
+    width: 250px;
+    height: 250px;
+    text-align: center;
+}
+.roud > div {
+    width: 25px;
+    height: 25px;
+    background-color: #333;
+    border-radius: 25px;
+    display: inline-block
+}
+body{
+    background-color: #d35400
+}
